@@ -5,7 +5,7 @@ A Python-based machine learning project that predicts used car prices using Line
 ## Features
 
 - **Data Cleaning:** Handles missing values, outliers, and inconsistent categories.
-- **Feature Engineering:** One-hot encoding, grouping of categorical variables, and normalization where necessary.
+- **Feature Engineering:** One-hot encoding and grouping of categorical variables where necessary.
 - **Machine Learning Models:** 
   - Linear Regression
   - Random Forest Regressor
